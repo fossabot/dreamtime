@@ -47,6 +47,7 @@ If you want to share or modify this Software please do it for the same purpose a
 ### Mirrors
 
 [![Windows](https://img.shields.io/badge/windows-v1.1.1-0078D6?logo=windows&logoColor=white&style=for-the-badge)](https://catalina.dreamnet.tech/ipns/QmUvudWPzRa7hgDSVFiwzFzviAZJohTrvHJNhnvytuPv3H/Releases/DreamTime/v1.1.1/DreamTime-v1.1.1-windows.exe)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdreamnettech%2Fdreamtime.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdreamnettech%2Fdreamtime?ref=badge_shield)
 
 [![Ubuntu](https://img.shields.io/badge/ubuntu-v1.1.1-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://catalina.dreamnet.tech/ipns/QmUvudWPzRa7hgDSVFiwzFzviAZJohTrvHJNhnvytuPv3H/Releases/DreamTime/v1.1.1/DreamTime-v1.1.1-ubuntu.deb)
 
@@ -132,3 +133,6 @@ Because DreamTime has been the **victim of users who take the source code and se
 
 To avoid an alert with information from DreamTime
 when you start your program, please make sure you **don't change the name or type of license** on your fork.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdreamnettech%2Fdreamtime.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdreamnettech%2Fdreamtime?ref=badge_large)
